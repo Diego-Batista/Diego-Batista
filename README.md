@@ -1,4 +1,9 @@
-### Olá, eu sou Diego Batista 👋
+<h1 align="center">Hi, I'm Diego Batista <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h3 align="center">I'm an enthusiast and apprentice of website development, mobile apps and APIs.</h3>
+<h4>My stack is:</h4>
+
+[![Instagram Badge](https://img.shields.io/badge/-diegobatistajj-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/diegobatistajj/)](https://www.instagram.com/diegobatistajj/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Batista%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-batista-014611216/)](https://www.linkedin.com/in/diego-batista-014611216/) 
 
 <!--
 **Diego-Batista/Diego-Batista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
