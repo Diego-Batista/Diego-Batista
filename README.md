@@ -1,15 +1,11 @@
 <h1>👋 &nbsp;Olá, eu sou o Diego, um Desenvolvedor Full Stack apaixonado pelo que faz!</h1>
-<h3 align="center">I'm an enthusiast and apprentice of website development, mobile apps and APIs.</h3>
-<h4>My stack is:</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35px"/>
-&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="35px"/>
-&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-&nbsp;
-  <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/>
+<p align="center">
+   <a href="mailto:diegobtistadev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/diego-batista"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linktree&logoColor=white"/></a>
+   <a href="https://instagram.com/marinenderson"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+   <a href="https://portfolio-ecmm.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4db5ff?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
+<h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-diegobatistajj-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/diegobatistajj/)](https://www.instagram.com/diegobatistajj/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Batista%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-batista-014611216/)](https://www.linkedin.com/in/diego-batista-014611216/) 
