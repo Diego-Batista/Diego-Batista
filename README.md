@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diego Batista <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>👋 &nbsp;Olá, eu sou o Diego, um Desenvolvedor Full Stack apaixonado pelo que faz!</h1>
 <h3 align="center">I'm an enthusiast and apprentice of website development, mobile apps and APIs.</h3>
 <h4>My stack is:</h4>
 <p>
