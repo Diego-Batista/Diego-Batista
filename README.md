@@ -1,10 +1,10 @@
-<h1>👋 &nbsp;Olá, eu sou o Diego, um Desenvolvedor Full Stack apaixonado pelo que faz!</h1>
 <p align="center">
    <a href="mailto:diegobtistadev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/diego-batista-91a22b360"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linktree&logoColor=white"/></a>
    <a href="https://instagram.com/marinenderson"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
    <a href="https://portfolio-ecmm.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4db5ff?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
+<h1>👋 &nbsp;Olá, eu sou o Diego, um Desenvolvedor Full Stack apaixonado pelo que faz!</h1>
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 [![Instagram Badge](https://img.shields.io/badge/-diegobatistajj-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/diegobatistajj/)](https://www.instagram.com/diegobatistajj/) 
