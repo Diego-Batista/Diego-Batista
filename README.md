@@ -10,7 +10,7 @@
 <h3>👨‍💻 &nbsp;Sobre mim:</h3>
 
 <p align="justify">
-Sou um Desenvolvedor Web Full Stack prestes a concluir minha graduação em engenharia da computação, formado como Técnico Universitário em Informática com mais de 10 anos de experiência nas áreas de TI (suporte técnico, redes e desenvolvimento de software). Tenho mais de 6 anos desenvolvendo sistemas e sites de forma independente, e em empresas onde trabalhei com equipes em diversos projetos como sites informativos, e-commerce, sistemas de gestão, pontos de venda, faturação e inventário. Sou apaixonado por programação, esportes e compartilhar com minha família. Estou ansioso para incorporar novos conhecimentos e enfrentar novos desafios. Resolução de problemas, trabalho em equipe, pensamento criativo, comunicação e autonomia, crescendo pessoal e profissionalmente através da realização das metas e objetivos propostos.
+Sou um Desenvolvedor Web Full Stack Tenho mais de 2 anos desenvolvendo sistemas e sites de forma independente. Sou apaixonado por programação, esportes e compartilhar com minha família. Estou ansioso para incorporar novos conhecimentos e enfrentar novos desafios. Resolução de problemas, trabalho em equipe, pensamento criativo, comunicação e autonomia, crescendo pessoal e profissionalmente através da realização das metas e objetivos propostos.
 </p>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
